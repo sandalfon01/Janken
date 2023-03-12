@@ -4,7 +4,7 @@ function aleatorio(min,max){
 function eleccion(jugada){
   let resultado="";
   if (jugada==1){
-    resultado="Piedra ✊";
+    resultado="Piedra ✊🏼";
   }else if(jugada==2){
     resultado="papel 📃";
   }else if (jugada==3) {
